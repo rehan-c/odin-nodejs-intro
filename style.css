@@ -1,0 +1,33 @@
+.center
+{
+    text-align: center;
+}
+
+body
+{
+    background-color: darkgrey;
+}
+
+.githubbutton
+{
+    color: white;
+}
+
+.blacklink
+{
+    color: black;
+    text-decoration: underline;
+}
+
+.mainheader
+{
+    color: black;
+}
+
+.site {
+  margin-top: 10px;
+}
+
+.main {
+  margin-top: 2rem;
+}
